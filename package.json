@@ -1,0 +1,23 @@
+{
+  "name": "farmit",
+  "version": "1.0.0",
+  "description": "Web3 DApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KIPEK-ui/farmit.git"
+  },
+  "keywords": [
+    "DApp",
+    "Agriculture"
+  ],
+  "author": "Emmanuel Keter Chair IET On Chapter Strathmore University",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KIPEK-ui/farmit/issues"
+  },
+  "homepage": "https://github.com/KIPEK-ui/farmit#readme"
+}
